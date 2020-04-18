@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteList</string>
+    <string-array name="relationship">
+        <item>同学</item>
+        <item>朋友</item>
+        <item>家人</item>
+    </string-array>
+</resources>
